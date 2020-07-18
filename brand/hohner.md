@@ -8,7 +8,12 @@
 * [LX 250G](https://hohnerguitars.de.tl/LX250G--k1-Rockwood-k2-.htm)
 
 ## Professional Models
+### L59
+* [Professional L59](https://hohnerguitars.de.tl/L59.htm)
+* [Ten Great Non-Gibson Les Paul-Style Guitars](https://spinditty.com/instruments-gear/5-Great-Non-Gibson-Les-Paul-Style-Guitars)
+### L75
 * [Professional L75](https://hohnerguitars.de.tl/L75.htm)
+### The Prince and TE Prinz
 * [The Prince and TE Prinz](https://hohnerguitars.de.tl/Prince-und-TE-Prinz.htm)
 
 ## Articles
