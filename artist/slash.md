@@ -4,6 +4,7 @@
 
 * Gibson / Epiphone Slash Signature collectable guitars [at Guitar Collector](http://www.guitarscollector.com/slash-guitars.html)
 * Equipment [at slashparadise.com](http://www.slashparadise.com/site/equipment-guitars-amps-effects-slash.php)
+* Les Paul Slash 1958 “First Standard” #8 3096 Replica at [Gibson.com](http://legacy.gibson.com/Products/Electric-Guitars/2017/Custom/Slash-1958-Les-Paul-First-Standard-8-3096-Replica.aspx) [Spec Sheet](https://images.gibson.com/Products/Electric-Guitars/2017/Custom/Slash-1958-LPFirstStandard-8-3096-Replica/Press/Documents/Slash-1958-LPFirstStandard-One-Sheet.pdf)
 
 ## Amps
 
