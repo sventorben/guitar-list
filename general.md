@@ -24,3 +24,11 @@
 
 ## Articles
 * History of Cort Guitars[at gear-vault.com](https://gear-vault.com/history-of-cort-guitars/)
+
+## CITES
+* CITES-Check: Palisander und Bubinga unter Schutz! at [louder.com](https://www.louder.com/de/magazin/cites-check-palisander-und-bubinga-unter-schutz)
+* Ergebnis der CITES-Konferenz: Ausnahmen für Palisander treten bald in Kraft! at [Gitarre & Bass](https://www.gitarrebass.de/stories/ergebnis-der-cites-konferenz-ausnahmen-fuer-palisander-treten-bald-in-kraft/)
+* Auflagen für Instrumente mit Palisander at [Gitarre & Bass](https://www.gitarrebass.de/stories/auflagen-fuer-instrumente-mit-palisander-dringende-registrierung-empfohlen/)
+* CITES-online: Elektronische Antragstellung at [Bundesamt für Naturschutz](https://www.cites-online.de/cites/content.do?%24csrf=COPR5DSZFNATNII3FNDZH0MBK)
+* A Guitar Lover’s Guide to the CITES Conservation Treaty at [Fretboard Journal](https://www.fretboardjournal.com/features/guitar-lovers-guide-cites-conservation-treaty/)
+* International Affairs - Permits for Musical Instruments at [U.S. Fish & Wildlife Services](https://www.fws.gov/international/Permits/by-activity/musical-instruments.html)
