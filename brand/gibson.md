@@ -4,7 +4,7 @@
 * Les Paul Junior and Les Paul TV Model (1954 to 1960) at [guitarhq.com](http://www.guitarhq.com/lpjr.html)
 * Les Paul Spotligh Special at [vintageguitar.com](https://www.vintageguitar.com/1759/gibson-les-paul-spotlight-special/)
 * Les Paul Traditional at [gibsontraditional.com](http://www.gibsontraditional.com/)
-* [Late Sixties Les Pauls](http://latesixtieslespauls.com/default. http://latesixtieslespauls.com)
+* [Late Sixties Les Pauls](http://latesixtieslespauls.com)
 
 ## First Reissues
 * Gibson’s First Reissue Les Pauls - On the Road to ’59[at vintageguitar.com](https://www.vintageguitar.com/16462/gibsons-first-reissue-les-pauls/)
