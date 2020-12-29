@@ -20,5 +20,6 @@
 * How To Verify Authentic Gibson Serial Numbers [at Gibson.com](https://www.gibson.com/Support/Serial-Number-Search)
 
 # Artists
+* [Joe Perry](../artist/perry.md)
 * [Mark Knopfler](../artist/knopfler.md)
 * [Slash](../artist/slash.md)
