@@ -5,3 +5,4 @@
 * [Hagstrom](hagstrom.md)
 * [Hohner](hohner.md)
 * [Samick](samick.md)
+* [Weimann, Lothar](weimann.md)
