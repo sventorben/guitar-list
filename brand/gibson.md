@@ -22,4 +22,5 @@
 # Artists
 * [Joe Perry](../artist/perry.md)
 * [Mark Knopfler](../artist/knopfler.md)
+* [Noel Gallagher](../artist/gallagher.md)
 * [Slash](../artist/slash.md)
